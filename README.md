@@ -2,6 +2,12 @@
 
 ## Giới thiệu
 
+**Sinh viên:** Vũ Đình Ngọc Minh  
+**Mã sinh viên:** B23DCCN569 
+
+**Sinh viên:** Nguyễn Vũ Song Hà  
+**Mã sinh viên:** B23DCCN265
+
 Repository gồm 7 chương trình Python minh họa giao tiếp producer/consumer với RabbitMQ:
 
 - Bài 1: gửi và nhận chuỗi văn bản qua queue `iot_lab_queue`.
